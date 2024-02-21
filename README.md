@@ -33,7 +33,7 @@
     Utilize docker/docker-compose para que possamos realizar os testes de sua aplicação.
     Deploy realizado no Google Cloud Run (free tier) e endereço ativo para ser acessado.
 
-** Ambiente de Desenvolvimento **
+**Ambiente de Desenvolvimento**
 
     O programa pode ser executado de duas formas. 
       Forma 1 - Caso você possua o golang instalado na máquina basta apenas executar o comando: **go run main.go** dentro da pasta cmd. 
@@ -43,12 +43,12 @@
 
       **Testes** 
       Podem ser verificados testes da aplicação os arquivos:
-      find_temperature_by_zip_code _test.go
+      find_temperature_by_zip_code_test.go
       zipcode_test.go
       weather_test.go
       
     
-** Ambiente de Produção **
+**Ambiente de Produção**
 
    Link: https://desafio-goexpert-zhohicmy5q-uc.a.run.app/temperature?zipcode={zipcode} -> ex: https://desafio-goexpert-zhohicmy5q-uc.a.run.app/temperature?zipcode=29902555
 
