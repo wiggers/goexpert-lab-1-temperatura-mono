@@ -37,7 +37,7 @@
 
     O programa pode ser executado de duas formas. 
       Forma 1 - Caso você possua o golang instalado na máquina basta apenas executar o comando: **go run main.go** dentro da pasta cmd. 
-      Forma 2 - Caso deseje rodar via docker, execute o comando **docker-compose up -d **, após isso basta fazer o comando 1 dentro do container.
+      Forma 2 - Caso deseje rodar via docker, execute o comando **docker-compose up -d**, após isso basta fazer o comando 1 dentro do container.
 
       endpoint: localhost:8080/temperature?zipcode={zipcode} -> ex: localhost:8080/temperature?zipcode=29902555
 
