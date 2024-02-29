@@ -52,7 +52,7 @@
     
 **Ambiente de Produção**
 
-   Link: https://desafio-goexpert-zhohicmy5q-uc.a.run.app/temperature?zipcode={zipcode} -> ex: https://desafio-goexpert-zhohicmy5q-uc.a.run.app/temperature?zipcode=29902555
+   Link: https://desafio-goexpert-zhohicmy5q-uc.a.run.app/temperature?zipcode={zipcode} -> ex: https://desafio-goexpert-zhohicmy5q-uc.a.run.app/temperature?zipcode=89214106
 
 
       
