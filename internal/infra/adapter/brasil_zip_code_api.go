@@ -27,7 +27,7 @@ func (b *BrasilApiData) FindCity(ctx context.Context, zipcode *entity.ZipCode) (
 	}
 
 	var data BrasilApiData
-	json.Unmarshal(dataCep, &data)
+	err = json.Unmarshal(dataCep, &data)
 
 	if err != nil {
 		log.Println(err)
